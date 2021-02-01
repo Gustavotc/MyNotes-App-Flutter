@@ -1,16 +1,34 @@
-# minhas_anotacoes
+<h1 align="center">
+<br>
+My Notes
+</h1>
 
-A new Flutter application.
+<p align="center">To Do App made using Flutter and SQLite 📱</p>
 
-## Getting Started
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+ <br>
+</p>
 
-This project is a starting point for a Flutter application.
+## Preview
+![1](https://user-images.githubusercontent.com/65514572/106460798-9f80cd80-6472-11eb-9be8-a2fe3916398f.png) ![2](https://user-images.githubusercontent.com/65514572/106460805-a1e32780-6472-11eb-950b-c0e160c99271.png) ![3](https://user-images.githubusercontent.com/65514572/106460801-a0b1fa80-6472-11eb-96f9-ee4c21881a8f.png) ![4](https://user-images.githubusercontent.com/65514572/106460808-a27bbe00-6472-11eb-976d-76a4fee722a7.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+[//]: # (Add the features of your project here:)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- **Dart & Flutter** — Tools used to develop the app.
+- **Android Studio** — IDE used to develop the project.
+- **SQLite ** - Database used to storage data
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Getting started
+
+- Donwload this repository
+- Open the project on Android Studio or Visual Code
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.

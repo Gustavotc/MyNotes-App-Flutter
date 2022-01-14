@@ -20,12 +20,12 @@ My Notes
 
 - **Dart & Flutter** — Tools used to develop the app.
 - **Android Studio** — IDE used to develop the project.
-- **SQLite ** - Database used to storage data
+- **SQLite** - Database used to storage data
 
 
 ## Getting started
 
-- Donwload this repository
+- Git clone this repository
 - Open the project on Android Studio or Visual Code
 
 
